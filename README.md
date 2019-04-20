@@ -1,6 +1,6 @@
 # Event Locker
 
-[![Version](https://img.shields.io/badge/dev-1.0.0-red.svg)](https://github.com/aalfiann/event-locker-php)
+[![Version](https://img.shields.io/badge/stable-1.0.0-green.svg)](https://github.com/aalfiann/event-locker-php)
 [![Total Downloads](https://poser.pugx.org/aalfiann/event-locker-php/downloads)](https://packagist.org/packages/aalfiann/event-locker-php)
 [![License](https://poser.pugx.org/aalfiann/event-locker-php/license)](https://github.com/aalfiann/event-locker-php/blob/HEAD/LICENSE.md)
 
